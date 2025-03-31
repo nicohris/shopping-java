@@ -1,0 +1,33 @@
+# IntelliJ
+.idea/
+*.iml
+*.iws
+
+# System
+.DS_Store
+Thumbs.db
+
+# Build
+/out/
+target/
+build/
+
+# Logs
+*.log
+
+# OS
+*.swp
+
+# Java
+*.class
+
+# Maven
+.mvn/
+!**/src/main/**/mvn-wrapper.properties
+
+# Gradle
+.gradle/
+build/
+
+# Others
+*.jar
